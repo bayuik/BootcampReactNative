@@ -15,3 +15,7 @@ export default function App() {
     <App14 />
   );
 }
+
+const test = () => {
+  console.log('a')
+}
